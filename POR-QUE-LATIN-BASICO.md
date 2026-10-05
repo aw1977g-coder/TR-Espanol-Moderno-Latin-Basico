@@ -1,23 +1,38 @@
-## ¿Por qué no "Latín Free" en Español?
+# ¿Por qué Latin Free y Latín Básico? - Todas las Lenguas
 
-En inglés sí pudimos hacer **Latin Free**.
+La visión es la misma: quitar la jerga fancy de iglesia y volver al lenguaje de tierra, cerca del griego.
 
-El inglés es una lengua germánica. Se puede hablar sin usar palabras latinas elegantes.
+Pero cada lengua es diferente.
 
-En español NO se puede.
+### 1. LENGUAS QUE SÍ PUEDEN SER LATIN FREE
+Lenguas germánicas - no vienen del latín.
 
-**El español es 75% a 80% latín.** Toda la lengua viene del latín. Si quitamos el latín, nos quedamos sin español.
+- **Inglés:** SÍ puede ser Latin Free. Es germánico. 60% de palabras son latinas pero puedes evitarlas.
+- **Alemán:** SÍ puede ser Latin Free.
+- **Holandés / Neerlandés:** SÍ puede ser Latin Free.
 
-Por eso, en español no buscamos "Latín Free".
+> Meta: Usar solo palabras germánicas, simples, de tierra.
 
-Buscamos **Latín Básico - De Tierra**.
+### 2. LENGUAS QUE NO PUEDEN SER LATIN FREE - TIENEN QUE SER LATÍN BÁSICO
+Lenguas romances - son 75% a 85% latín. Son hijas del latín.
 
-### ¿Qué es Latín Básico?
+- **Español: 75-80% latín**
+- **Portugués: 75-80% latín**
+- **Francés: 80-85% latín**
+- **Italiano: 85% latín**
+- **Rumano: 77% latín**
 
-1.  **Quitamos la jerga eclesiástica:** No usamos palabras fancy de iglesia que la gente ya no entiende. Ejemplo: no "justificación", "propiciación", "santificación". Decimos "hacer lo justo", "pago que quita la falla", "apartado para Dios".
+> Si quitas el latín, te quedas sin lengua.
+> Meta: No quitar el latín, sino bajarlo. De latín de cura a latín de campesino. Ejemplo: no "miel silvestre", sí "miel del monte".
 
-2.  **Usamos el latín de la calle:** El latín simple del campesino, no el latín del cura. Ejemplo: no "miel silvestre" (libro), sí "miel del monte" (tierra).
+### 3. LENGUAS CON OTRA BASE
+- **Griego moderno:** No es latín. Puede ser simple, de calle, como el griego del NT.
+- **Hebreo / Árabe:** No son latín. Pueden ser tierra, sin jerga religiosa fancy.
+- **Lenguas indígenas (Quechua, etc):** No son latín. Siempre han sido de tierra.
 
-3.  **Más cerca del griego:** El griego del Nuevo Testamento era griego simple de calle. Nuestro español debe ser igual. De tierra, directo, que un niño entiende.
+### RESUMEN DE LA VISIÓN
 
-**Meta:** No es quitar el latín. Es bajar el latín de la iglesia a la tierra, para que suene como sonaba el griego original.
+**Inglés:** TR Modern English - Latin Free
+**Español y todas las lenguas romances:** TR Moderno - Latín Básico, de tierra
+
+La misma meta: que suene como sonaba el griego original - simple, que un niño de la calle lo entiende.
