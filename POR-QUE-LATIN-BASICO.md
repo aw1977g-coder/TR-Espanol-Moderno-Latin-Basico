@@ -1,27 +1,24 @@
-# Porcentaje de Latín en cada lengua - ¿Se puede hacer Latin Free?
+## ¿Por qué no "Latin Free" en Español? - Desglose completo
 
-| Lengua | Familia | % de Latín | ¿Se puede Latin Free? | Qué hacemos |
-| :--- | :--- | :--- | :--- | :--- |
-| **Español** | Romance | 75-80% | NO | Latín Básico - de tierra |
-| **Portugués** | Romance | 75-80% | NO | Latín Básico - de tierra |
-| **Francés** | Romance | 80-85% | NO | Latín Básico - de tierra |
-| **Italiano** | Romance | 85% | NO | Latín Básico - de tierra |
-| **Rumano** | Romance | 77% | NO | Latín Básico - de tierra |
-| **Inglés** | Germánica | 58-60% | SÍ | Latin Free |
-| **Alemán** | Germánica | ~25% | SÍ | Latin Free |
-| **Holandés** | Germánica | ~25% | SÍ | Latin Free |
-| **Árabe** | Semita | 0% | No aplica | Lengua de tierra, sin jerga |
-| **Hebreo** | Semita | 0% | No aplica | Lengua de tierra, sin jerga |
-| **Griego** | Griega | 0% | No aplica | Griego simple de calle |
-| **Quechua** | Andina | 0% | No aplica | Lengua de tierra |
+El español no puede ser Latin Free porque es 75% a 80% latín.
 
-### Resumen simple:
+Aquí está el resto del desglose del español:
 
-**Si tu lengua viene del latín (español, portugués, francés, italiano):**
-No puedes quitar el latín porque te quedas sin palabras. 
-Tienes que hacer **Latín Básico**: bajar de latín de iglesia a latín de campesino.
-Ejemplo: no "miel silvestre", sí "miel del monte".
+**¿De qué está hecho el español?**
 
-**Si tu lengua NO viene del latín (inglés, alemán, árabe, hebreo):**
-Sí puedes quitar las palabras latinas fancy.
-Ejemplo en inglés: no "propitiation", sí "payment that takes away the fault".
+- 75% a 80% Latín - Base de todo
+- 8% a 10% Árabe - De los 800 años de árabes en España. Ej: ojalá, almohada, azúcar
+- 3% a 5% Griego - Directo del griego. Ej: biblia, ángel, iglesia
+- 2% a 4% Gótico (germánico) - De los visigodos. Ej: guerra, ropa, ganar
+- 1% a 3% Palabras de América - Quechua, Náhuatl, etc. Ej: chocolate, tomate, cancha
+- 1% a 2% Inglés moderno - Hoy. Ej: internet, clip, blog
+
+**Por eso hacemos Latín Básico y no Latin Free:**
+
+Si quitamos el 75-80% de latín, nos quedamos sin español. No hay idioma.
+
+La variación del español (de México, de España, de Argentina) es solo en ese 20-25% que no es latín. Por eso decimos "carro" en México y "coche" en España, pero los dos vienen del latín.
+
+**Nuestra meta:**
+No quitar el latín. Bajar el latín de iglesia a latín de tierra.
+No "miel silvestre" (libro), sí "miel del monte" (griego simple de calle).
